@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anandaaddof/anandaaddof/blob/main/Sans-White-BBG.gif">
+  <img width="384" src="https://github.com/anandaaddof/anandaaddof/blob/main/Sans-White-BBG.gif">
 </p>
 
 # About Me
