@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="384" src="https://github.com/anandaaddof/anandaaddof/blob/main/Sans-White-BBG.gif">
-</p>
-
 # About Me
 
 Passionate about developing video games, I consistently pursue improvement, eagerly embracing new challenges and experimenting with ideas, always open to learning from both my own experiences and those of others in the game development industry.
