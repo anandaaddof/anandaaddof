@@ -4,13 +4,13 @@ Passionate about developing video games, I consistently pursue improvement, eage
 
 # Skills
 - Programming Language: GDScript, Basic C
-- Game Engine: Unity (Level Design), Godot
+- Game Engine: Unity (2D Level Design), Godot
 
 # Projects
 <table width="20%">
   <thead>
     <tr>
-      <th width="50%">Space Ace</th>
+      <th width="50%">Alira Protector of Malaka (Game Designer)</th>
       <th width="50%">Fox Antics</th>
       <th width="50%">Tappy Plane</th>
     </tr>
