@@ -22,7 +22,7 @@ Passionate about developing video games, I consistently pursue improvement, eage
       <td><img src="https://github.com/anandaaddof/anandaaddof/blob/main/tappyplane.gif" width="384" height="216"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Alira the Protector of Malaka is a 2D side scrolling action game where it tells the tales of Alira whose home is being invaded by an army of robots. Now she has to go and rescue her people from the robots with only using a bow and an arrow as her weapon. [Try the game here!](https://donotdisturb-game.itch.io/aliramalaka)</td>
+      <td valign="text-top">Alira the Protector of Malaka is a 2D side scrolling action game where it tells the tales of Alira whose home is being invaded by an army of robots. Now she has to go and rescue her people from the robots with only using a bow and an arrow as her weapon. Try the game! -> https://donotdisturb-game.itch.io/aliramalaka</td>
       <td valign="text-top">A simple platformer game as a Fox finding his way to the finish line. My contribution and responsibility for this project are Programmer and Level Designer. Assets used are from kenney.nl and itch.io</td>
       <td valign="text-top">Simple game based on Tappy Bird. My contribution and responsibility for this project are Programmer and Level Designer. Assets used are from kenney.nl and itch.io</td>
     </tr>
