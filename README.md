@@ -3,8 +3,8 @@
 Passionate about developing video games, I consistently pursue improvement, eagerly embracing new challenges and experimenting with ideas, always open to learning from both my own experiences and those of others in the game development industry.
 
 # Skills
-- Programming Language: C# & GDScript
-- Game Engine: Unity & Godot
+- Programming Language: GDScript, Basic C
+- Game Engine: Unity (Level Design), Godot
 
 # Projects
 <table width="20%">
