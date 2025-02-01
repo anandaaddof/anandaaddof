@@ -3,9 +3,8 @@
 Passionate about developing video games, I consistently pursue improvement, eagerly embracing new challenges and experimenting with ideas, always open to learning from both my own experiences and those of others in the game development industry.
 
 # Skills
-- Programming Language: GDScript, Basic C
-- Game Engine: Unity (2D Level Design), Godot
-- Game Design Related: Creating GDD (Game Design Document), Core Game Loop, and Game Mechanics
+- Game Engine: Unity
+- Game Design: Creating Game Design Document (GDD), Sound Design Document, Art Design Document, Core Game Loop, and Designing Game Mechanics
 
 # Projects
 <table width="20%">
