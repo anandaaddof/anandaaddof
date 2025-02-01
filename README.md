@@ -5,6 +5,7 @@ Passionate about developing video games, I consistently pursue improvement, eage
 # Skills
 - Game Engine: Unity
 - Game Design: Creating Game Design Document (GDD), Sound Design Document, Art Design Document, Core Game Loop, and Designing Game Mechanics
+- Project Management: Listing Various Assets, Using Notion and Trello for Progress Tracking
 
 # Projects
 <table width="20%">
